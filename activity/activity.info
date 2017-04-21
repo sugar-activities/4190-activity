@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Wordsgame 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.wordsgameActivity
+bundle_id = net.gcompris.wordsgameActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
